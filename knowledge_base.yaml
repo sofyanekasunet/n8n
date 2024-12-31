@@ -1,0 +1,55 @@
+articles:
+  - title: "Getting Started with Our Product"
+    id: getting-started
+    keywords: [intro, setup, beginner, install]
+    content: |
+      Welcome to our product! This guide will walk you through the initial setup process.
+      
+      ## Installation
+      1. Download the installer from our website.
+      2. Run the installer and follow the on-screen instructions.
+      3. Once installed, launch the application.
+      
+      ## Basic Configuration
+      - **User Profile:** Go to Settings > Profile to set up your user account.
+      - **Preferences:** Customize the application's behavior in Settings > Preferences.
+
+  - title: "How to Troubleshoot Common Issues"
+    id: troubleshooting
+    keywords: [error, problem, fix, help, support]
+    content: |
+      ## Common Error Messages
+      
+      ### Error: "Connection Failed"
+      - **Possible Cause:** Network connectivity issue or incorrect server address.
+      - **Solution:**
+        1. Check your internet connection.
+        2. Verify the server address in Settings > Connection.
+        3. Try restarting your router/modem.
+      
+      ### Error: "Invalid License Key"
+      - **Possible Cause:** Incorrect or expired license key.
+      - **Solution:**
+        1. Double-check the license key you entered.
+        2. Ensure your license is still valid. Contact support if it has expired.
+
+  - title: "Advanced Features Guide"
+    id: advanced-features
+    keywords: [expert, power user, customization, scripting]
+    content: |
+      This guide covers the advanced features available in our product.
+      
+      ## Scripting API
+      Our product offers a powerful scripting API that allows you to automate tasks and extend functionality. Refer to the Scripting Documentation for details.
+      
+      ## Custom Integrations
+      You can integrate our product with other tools using our flexible plugin system. 
+
+  - title: "Contacting Support"
+    id: contact-support
+    keywords: [help, support, contact, email, phone]
+    content: |
+      If you need assistance, you can reach our support team via:
+      - **Email:** support@example.com
+      - **Phone:** +1-555-123-4567 (Monday-Friday, 9 AM - 5 PM PST)
+      - **Support Portal:** [link to your support portal]
